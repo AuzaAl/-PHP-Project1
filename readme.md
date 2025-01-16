@@ -7,7 +7,7 @@ Untuk menggunakan aplikasi ini, ikuti langkah-langkah berikut:
 <h1>PENGGUNAAN</h1>
 
 Aplikasi ini memungkinkan Anda untuk memasukkan informasi tentang barang, termasuk nama barang, harga, dan jumlah. Anda dapat menambahkan hingga 5 barang. Setelah Anda memasukkan informasi, klik tombol "SUBMIT" untuk melihat total biaya barang-barang tersebut.
-<h3>Jika total jumlah barang lebih dari 5, aplikasi akan menerapkan diskon 10% pada total biaya.</h3>
+<i>Jika total jumlah barang lebih dari 5, aplikasi akan menerapkan diskon 10% pada total biaya</i>
 
 <h2>Berikut adalah contoh cara menggunakan aplikasi ini:</h2>
 
